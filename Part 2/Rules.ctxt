@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Rules()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Rules.\n\ \n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=Method\ act\ returns\ nothing\ (void\ type)\ and\ it\ class\ the\ method\ check\ rules\ \n\ @param\ (\ no\ parameters)\n
+comment2.params=
+comment2.target=void\ checkRules()
+comment2.text=\ Method\ checkRules\ will\ call\ the\ another\ world\ \n\ @param\ no\ parameters\n\ returns\ nothing\ (void\ type)\n\ \ \ \ \ \ \ \n
+numComments=3

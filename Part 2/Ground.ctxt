@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\n\ Act\ -\ do\ whatever\ the\ Ground\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment1.params=
+comment1.target=void\ lookFish()
+comment1.text=lookFish\ method\ will\ look\ for\ the\ fish\ and\ will\ try\ to\ remove\ the\ fish\ object\n\ returns\ nothing\n\ @param\ no\ parameters\n
+numComments=2

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\n\ Act\ -\ do\ whatever\ the\ Food\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment1.params=
+comment1.target=void\ randomTurn()
+comment1.text=method\ will\ allow\ to\ make\ random\ turns\n\ return\ nothing\n\ @param\ no\ parameters\n
+comment2.params=
+comment2.target=void\ turnAtEdge()
+comment2.text=method\ will\ allow\ object\ to\ turn\ at\ the\ edge\n\ returns\ nothing\n\ @param\ no\ parameters\n
+numComments=3

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\n\ Act\ -\ do\ whatever\ the\ Bullet\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment1.params=clss
+comment1.target=void\ temp1(java.lang.Class)
+comment1.text=\ temp1\ will\ return\ nothing\ and\ it\ will\ eat\ the\ object\ fish\ for\ touching\ five\ times\n\ @param\ no\ parameters\n\ \ \ \ \ \ \ \n
+comment2.params=
+comment2.target=void\ lookForHorse()
+comment2.text=lookForHorse\ method\ will\ look\ for\ the\ fish\ object\n\ return\ nothing\n\ @param\ no\ parameters\n
+comment3.params=
+comment3.target=void\ randomTurn()
+comment3.text=randomTurn\ will\ make\ Bullet\ object\ to\ make\ random\ turns\n\ return\ nothing\n\ @param\ no\ parameters\n
+numComments=4

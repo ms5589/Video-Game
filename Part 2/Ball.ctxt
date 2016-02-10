@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\ act\ method\ will\ return\ nothing\ and\ it\ will\ call\ some\ methods\ to\ act\ the\ object\n\ @param\ no\ parameters\n\ \ \ \ \ \ \ \n
+comment1.params=
+comment1.target=void\ randomTurn()
+comment1.text=method\ randomTurn\ will\ return\ nothing,\ and\ it\ will\ allow\ ball\ object\ to\ make\ random\ turns\n\ @param\ no\ parameters\n\ \n
+comment2.params=
+comment2.target=void\ turnAtEdge()
+comment2.text=method\ turnAtedge\ will\ allow\ object\ to\ turn\ at\ the\ world\ edge\n\ returns\ nothing\n\ @param\ no\ parameters\n\ \n
+numComments=3
